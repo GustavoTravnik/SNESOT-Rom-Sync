@@ -1,0 +1,6 @@
+This is the info for the last game you ran.
+
+File: Tetris and Dr. Mario U.sfc Header: No
+TETRIS&Dr.MARIO         TYPE:NORMAL     
+INTERLEAVED:No    BANK:Lo    CHKSUM:OK  
+VIDEO:NTSC                CRC32:6C852EF3

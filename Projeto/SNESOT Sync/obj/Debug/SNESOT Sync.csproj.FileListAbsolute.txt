@@ -1,0 +1,35 @@
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SNESOT Sync.exe.config
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SNESOT Sync.exe
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SNESOT Sync.pdb
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\NovaDll.dll
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\NAudio.dll
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\Microsoft.Xna.Framework.dll
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SlimDX.dll
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\InputSimulator.dll
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\NovaDll.pdb
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\Microsoft.Xna.Framework.xml
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SlimDX.pdb
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SlimDX.xml
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT Sync.csprojResolveAssemblyReference.cache
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT_Sync.Form1.resources
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT_Sync.Properties.Resources.resources
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT Sync.csproj.GenerateResource.Cache
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT Sync.exe
+D:\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT Sync.pdb
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SNESOT Sync.exe.config
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT Sync.exe
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT Sync.pdb
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SNESOT Sync.exe
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\bin\Debug\SNESOT Sync.pdb
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT Sync.csprojResolveAssemblyReference.cache
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT_Sync.Principal.resources
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT_Sync.Properties.Resources.resources
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT Sync.csproj.GenerateResource.Cache
+D:\Pastas\SNESOT\Project\SNESOT Sync\SNESOT Sync\obj\Debug\SNESOT_Sync.Rom.resources
+D:\SNESOT Git\SNESOT-Rom-Sync\SNESOT Sync\bin\Debug\SNESOT Sync.exe.config
+D:\SNESOT Git\SNESOT-Rom-Sync\SNESOT Sync\obj\Debug\SNESOT Sync.exe
+D:\SNESOT Git\SNESOT-Rom-Sync\SNESOT Sync\obj\Debug\SNESOT Sync.pdb
